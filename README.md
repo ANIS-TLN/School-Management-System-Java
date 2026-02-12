@@ -4,7 +4,7 @@
 > This project was developed during my early computer science studies. It demonstrates my understanding of **Java Swing (GUI)** and **JDBC** logic without using modern frameworks.
 > *Note: This is a legacy codebase provided for educational purposes.*
 
-![App Preview](screenshots/menu-preview.png)
+![App Preview](screenshot.png)
 *(Main Dashboard Interface)*
 
 ## 📋 Project Overview
@@ -24,4 +24,5 @@ A desktop application designed to manage school administration tasks. This proje
 src/
  ├── graphique/   # UI Classes (Login, Menu, Student Management)
  ├── photo/       # Assets and Icons
+
  └── main/        # Entry point
