@@ -4,7 +4,7 @@
 > This project was developed during my early computer science studies. It demonstrates my understanding of **Java Swing (GUI)** and **JDBC** logic without using modern frameworks.
 > *Note: This is a legacy codebase provided for educational purposes.*
 
-![App Preview](screenshot.png)
+![App Preview](Screenshot.png)
 *(Main Dashboard Interface)*
 
 ## 📋 Project Overview
@@ -26,3 +26,4 @@ src/
  ├── photo/       # Assets and Icons
 
  └── main/        # Entry point
+
